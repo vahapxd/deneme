@@ -1,0 +1,27 @@
+{
+    "bot": {
+
+        "owner": "728931818182541392",
+        "prefix": ".",
+        "BotStatus": "Only' Rencia?",
+        "BotFooter": "Only' Rencia?",
+        "cooldown": 8
+    },
+    "channels": {
+        "voicechannel": "1035259872570245130"
+    },
+    "BoranGkdn": {
+        "GuildID": "1035092404652482591",
+        "OwnerRole": "1035100854606377010"
+    },
+    "emojis": {
+        "tada": "✔",
+        "yes": "✔",
+        "no": "❌"
+    },
+        "buttons": {
+            "çekiliş": "1035100681553592320",
+            "etkinlik": "1035100681553592320"
+        }
+    }
+    
